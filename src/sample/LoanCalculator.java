@@ -45,6 +45,7 @@ public class LoanCalculator extends Application {
         tfTotalPayment.setAlignment(Pos.BOTTOM_RIGHT);
         tfMonthlyPayment.setEditable(false);
         tfTotalPayment.setEditable(false);
+//        btCalculate.setAlignment(Pos.BASELINE_RIGHT);
         GridPane.setHalignment(btCalculate, HPos.RIGHT);
 
         // Process events
