@@ -1,4 +1,4 @@
-package sample;
+package loan_calculator;
 
 public class Loan {
     private double annualInterestRate;

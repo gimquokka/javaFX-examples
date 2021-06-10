@@ -1,4 +1,4 @@
-package sample;
+package circle_control;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;
@@ -9,6 +9,7 @@ import javafx.scene.input.MouseButton;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
+//import basic.CirclePane;
 
 public class ControlCircleWithMouseAndKey extends Application {
     private CirclePane circlePane = new CirclePane();

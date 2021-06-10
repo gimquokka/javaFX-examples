@@ -1,4 +1,4 @@
-package sample;
+package circle_control;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

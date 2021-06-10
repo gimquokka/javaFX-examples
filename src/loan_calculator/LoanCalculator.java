@@ -1,4 +1,4 @@
-package sample;
+package loan_calculator;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;
